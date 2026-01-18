@@ -113,6 +113,20 @@ This event-driven control strategy improves system robustness and safety during 
 
 ---
 
+## Mechanical Design Preview
+
+### System-Level Assembly
+![Full Assembly](mechanical_design/renders/full_assembly.png)
+
+### Mask Dispensing Mechanism
+![Mask Dispenser](mechanical_design/renders/mask_dispenser_module1.png)
+
+### Omnidirectional Mobile Base
+![Mobile Base](mechanical_design/renders/mobile_base.png)
+
+---
+
+
 # 自动化口罩发放与回收机器人  
 **面向大型公共场所的机电一体化防疫系统**
 
